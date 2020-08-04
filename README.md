@@ -1,16 +1,13 @@
-### Hi there 👋
+### 🍐 🍊 🍋 🍌 🍇 🍓 🍒 🍑 🥝
 
-<!--
-**dlinka/dlinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 联系我🍏
 
-Here are some ideas to get you started:
+    email:dlinka.cr7@gmail.com
+    wechat:dlinka
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 技术🍎
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dlinka&repo=technology&show_owner=true&theme=dark" />
+</a>
